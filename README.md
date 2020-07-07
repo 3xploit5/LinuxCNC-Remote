@@ -11,14 +11,14 @@ How to use
 
 Supported Operating Systems
 ---------------------------
-For now only tested on linuxcnc Debian 9 Stretch
+Only tested on linuxcnc Debian 9 Stretch
 
 **Required:**
 $ python3 -m pip install -r requirements.txt
 * `python`: Linuxcnc Remote works only with Python 2.7
-* [`linuxcnc`](http://linuxcnc.org/docs/2.6/html/common/python-interface.html): You need an installation of Linuxcnc for it to proper work
-* [`linuxcnc Python Interface`](http://linuxcnc.org/docs/2.6/html/common/python-interface.html): For polling Data
-* [`redis`](https://redis.io/) for sending requests to your other workstation
+* [`linuxcnc`](http://linuxcnc.org/docs/2.6/html/common/python-interface.html): You need an installation of Linuxcnc
+* [`linuxcnc Python Interface`](http://linuxcnc.org/docs/2.6/html/common/python-interface.html): Data polling
+* [`redis`](https://redis.io/) for sending requests to your workstation
 
 on WINDOWS:
 https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi
