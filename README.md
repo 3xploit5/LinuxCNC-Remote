@@ -1,4 +1,4 @@
-Linuxcnc Remote (IN DEVELOPMENT)
+Linuxcnc Remote (DEVELOPMENT FROZEN)
 ======
 
 Linuxcnc Remote allows you to gain remote access to a CNC Machine via Network and Redis
