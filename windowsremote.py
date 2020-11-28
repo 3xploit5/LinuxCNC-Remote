@@ -1,5 +1,3 @@
-# !/usr/bin/python
-# python 2.7
 import os
 import redis
 import time
